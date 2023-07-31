@@ -33,4 +33,4 @@ Then go to the browser and enter the url **http://127.0.0.1:8000/**
 ## Screenshots
 
 ### Home Page
-![Home page](https://imgur.com/hZ2V1Fz)
+![Home page](https://github.com/adithya112/django_dictionary/blob/main/static/images/dict.jpg)
