@@ -33,11 +33,11 @@ Then go to the browser and enter the url **http://127.0.0.1:8000/**
 ## Screenshots
 
 ### Home Page
-![Home page](https://github.com/adithya112/django_dictionary/blob/main/static/images/dict.jpg)
+![Home page](https://i.imgur.com/hZ2V1Fz.png)
 
 ### Search Page
-![Search Page](https://imgur.com/1o8kpSj)
+![Search Page](https://i.imgur.com/1o8kpSj.png)
 
 ### Meanings Page
-![Meanings Page](https://imgur.com/CICcL78)
+![Meanings Page](https://i.imgur.com/CICcL78.png)
 ![Meanings Page](https://i.imgur.com/7pyOrX0.png)
